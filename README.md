@@ -7,6 +7,10 @@ Desafio 5 personalizado do grupo OsProgramadores.com feito em JavaScript e CSS, 
 3. Área(s) com o maior e menor número de funcionários
 4. Maiores salários para funcionários com o mesmo sobrenome
 
+# Ferramentas
+
+- IntelliJ IDEA 2021.2
+
 # Tecnologias
 
 - JavaScript
