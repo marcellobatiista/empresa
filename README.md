@@ -1,6 +1,6 @@
 # Descrição
 
-Desafio 5 personalizado do grupo OsProgramadores.com feito em JavaScript e CSS, em que o usuário sobe um arquivo JSON em que processa-se informações de:
+Desafio 5 personalizado do grupo OsProgramadores.com feito em JavaScript e CSS, em que o usuário sobe um arquivo JSON e processa-se informações de:
 
 1. Quem mais recebe e quem menos recebe na empresa e a média salarial da empresa
 2. Quem mais recebe e quem menos recebe em cada área e a média salarial em cada área
@@ -13,6 +13,7 @@ Desafio 5 personalizado do grupo OsProgramadores.com feito em JavaScript e CSS, 
 - CSS
 - HTML
 - JQuery
+- Git
 
 # Implementações futuras
 
